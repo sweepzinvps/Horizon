@@ -33,7 +33,7 @@ Horizon is a mod launcher inspired by Modrinth, designed to make managing and pl
 
 ```bash
 # Clone
-git clone https://github.com/LuuLoHvH/horizon.git
+git clone https://github.com/sweepzinvps/Horizon.git
 cd horizon
 
 # Install
